@@ -1,0 +1,39 @@
+.container {
+    margin: 20px auto;
+    padding: 30px;
+    width: fit-content;
+    height: fit-content;
+    border: 2px solid rgb(168, 104, 228);
+    border-radius: 10px;
+    background: linear-gradient(180deg, #5d9df0 0%, #5252f0 100%);
+    box-shadow: 5px 5px black;
+    color: white;
+    text-shadow: 1px 1px black;
+    font-size: 24px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+table {
+    
+    border-collapse: collapse;
+}
+
+td {
+    width: 300px;
+    padding: 10px;
+    
+}
+
+.icon-data {
+    margin: 0 auto;
+}
+
+.icon {
+    width: 100px;
+    height: 100px;
+}
